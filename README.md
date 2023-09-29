@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizcoelhoc1" alt="luizcoelhoc1" /></a> </p>
 
-- 🔭 I’m currently working on [company called Delta Global](https://www.deltaglobal.com.br/)
+- 🔭 I’m currently working at [Delta Global](https://www.deltaglobal.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luizcoelhoc1](https://github.com/luizcoelhoc1)
 
