@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
 
 
-<h3 align="center">A gamer, otaku and developer from Brazil</h3>
+<h3 align="center">A developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizcoelhoc1" alt="luizcoelhoc1" /></a> </p>
-
-- 🔭 I’m currently working at [Delta Global](https://www.deltaglobal.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luizcoelhoc1](https://github.com/luizcoelhoc1)
 
